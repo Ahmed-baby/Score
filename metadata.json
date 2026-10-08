@@ -1,0 +1,6 @@
+{
+  "name": "صانع بوسترات نتائج المباريات - ديرب نجم",
+  "description": "تطبيق احترافي لتصميم وتصدير بوسترات نتائج مباريات كرة القدم بجودة 1080×1350 بكسل وبألوان وهوية نادي ديرب نجم الرياضي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
